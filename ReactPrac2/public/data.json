@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+    "name":"Ayushi",
+    "age":20,
+    "class":12
+},
+{"id":2,
+    "name":"Shreya",
+    "age":11,
+    "class":6
+},
+{"id":3,
+    "name":"Tom",
+    "age":22,
+    "class":13
+},
+{"id":4,
+    "name":"Rohit",
+    "age":20,
+    "class":12
+},
+{"id":5,
+    "name":"Rahul",
+    "age":16,
+    "class":10
+}
+]
