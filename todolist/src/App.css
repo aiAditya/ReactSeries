@@ -1,0 +1,44 @@
+#input{
+    width: 20rem;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+#btn{
+    width: 5rem;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: aquamarine;
+}
+#list{
+    margin-top: 5px;
+    list-style-type: none;
+    background-color: aliceblue;
+    width: inherit;
+    padding: 10px;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+li div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+li  button{
+    border: none;
+    outline: none;
+    background-color:rgb(61, 184, 61)  ;
+    padding: 4px;
+    cursor: pointer;
+    border-radius: 2px;
+    color: white;
+    &:hover{
+        background-color: rgb(93, 226, 93);
+        transition: 0.5s;
+    }
+}
